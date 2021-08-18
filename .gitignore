@@ -1,0 +1,8 @@
+.idea
+*.iml
+__pycache__
+controllable_denoising/confidence_map_train_data
+controllable_denoising/confidence_map_test_data
+**.7z
+**.csv
+**.ods

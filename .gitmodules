@@ -1,0 +1,6 @@
+[submodule "CCID/library/DnCNN"]
+	path = CCID/library/DnCNN
+	url = https://github.com/cszn/DnCNN.git
+[submodule "CCID/library/SAN"]
+	path = CCID/library/SAN
+	url = https://github.com/daitao/SAN.git

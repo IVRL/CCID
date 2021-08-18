@@ -1,0 +1,404 @@
+Epoch: 1.2497, Avg. test loss: 0.0349
+Epoch: 1.4997, Avg. test loss: 0.0151
+Epoch: 1.7497, Avg. test loss: 0.0142
+Epoch: 1.9997, Avg. test loss: 0.0120
+Epoch: 1
+Estimated loss of the model (over 10000 samples): 0.0096
+Epoch: 2.2497, Avg. test loss: 0.0116
+Epoch: 2.4997, Avg. test loss: 0.0107
+Epoch: 2.7497, Avg. test loss: 0.0104
+Epoch: 2.9997, Avg. test loss: 0.0097
+Epoch: 2
+Estimated loss of the model (over 10000 samples): 0.0153
+Epoch: 3.2497, Avg. test loss: 0.0093
+Epoch: 3.4997, Avg. test loss: 0.0090
+Epoch: 3.7497, Avg. test loss: 0.0088
+Epoch: 3.9997, Avg. test loss: 0.0086
+Epoch: 3
+Estimated loss of the model (over 10000 samples): 0.0070
+Epoch: 4.2497, Avg. test loss: 0.0086
+Epoch: 4.4997, Avg. test loss: 0.0080
+Epoch: 4.7497, Avg. test loss: 0.0079
+Epoch: 4.9997, Avg. test loss: 0.0078
+Epoch: 4
+Estimated loss of the model (over 10000 samples): 0.0072
+Epoch: 5.2497, Avg. test loss: 0.0073
+Epoch: 5.4997, Avg. test loss: 0.0072
+Epoch: 5.7497, Avg. test loss: 0.0070
+Epoch: 5.9997, Avg. test loss: 0.0069
+Epoch: 5
+Estimated loss of the model (over 10000 samples): 0.0082
+Epoch: 6.2497, Avg. test loss: 0.0069
+Epoch: 6.4997, Avg. test loss: 0.0067
+Epoch: 6.7497, Avg. test loss: 0.0067
+Epoch: 6.9997, Avg. test loss: 0.0066
+Epoch: 6
+Estimated loss of the model (over 10000 samples): 0.0172
+Epoch: 7.2497, Avg. test loss: 0.0065
+Epoch: 7.4997, Avg. test loss: 0.0065
+Epoch: 7.7497, Avg. test loss: 0.0064
+Epoch: 7.9997, Avg. test loss: 0.0064
+Epoch: 7
+Estimated loss of the model (over 10000 samples): 0.0065
+Epoch: 8.2497, Avg. test loss: 0.0063
+Epoch: 8.4997, Avg. test loss: 0.0063
+Epoch: 8.7497, Avg. test loss: 0.0062
+Epoch: 8.9997, Avg. test loss: 0.0062
+Epoch: 8
+Estimated loss of the model (over 10000 samples): 0.0076
+Epoch: 9.2497, Avg. test loss: 0.0061
+Epoch: 9.4997, Avg. test loss: 0.0062
+Epoch: 9.7497, Avg. test loss: 0.0061
+Epoch: 9.9997, Avg. test loss: 0.0061
+Epoch: 9
+Estimated loss of the model (over 10000 samples): 0.0070
+Epoch: 10.2497, Avg. test loss: 0.0061
+Epoch: 10.4997, Avg. test loss: 0.0061
+Epoch: 10.7497, Avg. test loss: 0.0060
+Epoch: 10.9997, Avg. test loss: 0.0060
+Epoch: 10
+Estimated loss of the model (over 10000 samples): 0.0061
+Epoch: 11.2497, Avg. test loss: 0.0059
+Epoch: 11.4997, Avg. test loss: 0.0060
+Epoch: 11.7497, Avg. test loss: 0.0060
+Epoch: 11.9997, Avg. test loss: 0.0059
+Epoch: 11
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 12.2497, Avg. test loss: 0.0059
+Epoch: 12.4997, Avg. test loss: 0.0058
+Epoch: 12.7497, Avg. test loss: 0.0059
+Epoch: 12.9997, Avg. test loss: 0.0059
+Epoch: 12
+Estimated loss of the model (over 10000 samples): 0.0066
+Epoch: 13.2497, Avg. test loss: 0.0059
+Epoch: 13.4997, Avg. test loss: 0.0058
+Epoch: 13.7497, Avg. test loss: 0.0058
+Epoch: 13.9997, Avg. test loss: 0.0059
+Epoch: 13
+Estimated loss of the model (over 10000 samples): 0.0069
+Epoch: 14.2497, Avg. test loss: 0.0058
+Epoch: 14.4997, Avg. test loss: 0.0059
+Epoch: 14.7497, Avg. test loss: 0.0058
+Epoch: 14.9997, Avg. test loss: 0.0058
+Epoch: 14
+Estimated loss of the model (over 10000 samples): 0.0068
+Epoch: 15.2497, Avg. test loss: 0.0057
+Epoch: 15.4997, Avg. test loss: 0.0058
+Epoch: 15.7497, Avg. test loss: 0.0058
+Epoch: 15.9997, Avg. test loss: 0.0058
+Epoch: 15
+Estimated loss of the model (over 10000 samples): 0.0062
+Epoch: 16.2497, Avg. test loss: 0.0057
+Epoch: 16.4997, Avg. test loss: 0.0057
+Epoch: 16.7497, Avg. test loss: 0.0058
+Epoch: 16.9997, Avg. test loss: 0.0057
+Epoch: 16
+Estimated loss of the model (over 10000 samples): 0.0068
+Epoch: 17.2497, Avg. test loss: 0.0056
+Epoch: 17.4997, Avg. test loss: 0.0057
+Epoch: 17.7497, Avg. test loss: 0.0057
+Epoch: 17.9997, Avg. test loss: 0.0057
+Epoch: 17
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 18.2497, Avg. test loss: 0.0057
+Epoch: 18.4997, Avg. test loss: 0.0057
+Epoch: 18.7497, Avg. test loss: 0.0057
+Epoch: 18.9997, Avg. test loss: 0.0056
+Epoch: 18
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 19.2497, Avg. test loss: 0.0056
+Epoch: 19.4997, Avg. test loss: 0.0056
+Epoch: 19.7497, Avg. test loss: 0.0057
+Epoch: 19.9997, Avg. test loss: 0.0056
+Epoch: 19
+Estimated loss of the model (over 10000 samples): 0.0055
+Epoch: 20.2497, Avg. test loss: 0.0056
+Epoch: 20.4997, Avg. test loss: 0.0056
+Epoch: 20.7497, Avg. test loss: 0.0056
+Epoch: 20.9997, Avg. test loss: 0.0056
+Epoch: 20
+Estimated loss of the model (over 10000 samples): 0.0055
+Epoch: 21.2497, Avg. test loss: 0.0056
+Epoch: 21.4997, Avg. test loss: 0.0056
+Epoch: 21.7497, Avg. test loss: 0.0056
+Epoch: 21.9997, Avg. test loss: 0.0056
+Epoch: 21
+Estimated loss of the model (over 10000 samples): 0.0064
+Epoch: 22.2497, Avg. test loss: 0.0056
+Epoch: 22.4997, Avg. test loss: 0.0056
+Epoch: 22.7497, Avg. test loss: 0.0056
+Epoch: 22.9997, Avg. test loss: 0.0056
+Epoch: 22
+Estimated loss of the model (over 10000 samples): 0.0062
+Epoch: 23.2497, Avg. test loss: 0.0056
+Epoch: 23.4997, Avg. test loss: 0.0056
+Epoch: 23.7497, Avg. test loss: 0.0056
+Epoch: 23.9997, Avg. test loss: 0.0056
+Epoch: 23
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 24.2497, Avg. test loss: 0.0056
+Epoch: 24.4997, Avg. test loss: 0.0055
+Epoch: 24.7497, Avg. test loss: 0.0056
+Epoch: 24.9997, Avg. test loss: 0.0056
+Epoch: 24
+Estimated loss of the model (over 10000 samples): 0.0066
+Epoch: 25.2497, Avg. test loss: 0.0056
+Epoch: 25.4997, Avg. test loss: 0.0056
+Epoch: 25.7497, Avg. test loss: 0.0055
+Epoch: 25.9997, Avg. test loss: 0.0055
+Epoch: 25
+Estimated loss of the model (over 10000 samples): 0.0060
+Epoch: 26.2497, Avg. test loss: 0.0055
+Epoch: 26.4997, Avg. test loss: 0.0055
+Epoch: 26.7497, Avg. test loss: 0.0056
+Epoch: 26.9997, Avg. test loss: 0.0056
+Epoch: 26
+Estimated loss of the model (over 10000 samples): 0.0054
+Epoch: 27.2497, Avg. test loss: 0.0055
+Epoch: 27.4997, Avg. test loss: 0.0056
+Epoch: 27.7497, Avg. test loss: 0.0055
+Epoch: 27.9997, Avg. test loss: 0.0056
+Epoch: 27
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 28.2497, Avg. test loss: 0.0055
+Epoch: 28.4997, Avg. test loss: 0.0056
+Epoch: 28.7497, Avg. test loss: 0.0055
+Epoch: 28.9997, Avg. test loss: 0.0055
+Epoch: 28
+Estimated loss of the model (over 10000 samples): 0.0067
+Epoch: 29.2497, Avg. test loss: 0.0055
+Epoch: 29.4997, Avg. test loss: 0.0055
+Epoch: 29.7497, Avg. test loss: 0.0055
+Epoch: 29.9997, Avg. test loss: 0.0056
+Epoch: 29
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 30.2497, Avg. test loss: 0.0055
+Epoch: 30.4997, Avg. test loss: 0.0055
+Epoch: 30.7497, Avg. test loss: 0.0056
+Epoch: 30.9997, Avg. test loss: 0.0055
+Epoch: 30
+Estimated loss of the model (over 10000 samples): 0.0053
+Epoch: 31.2497, Avg. test loss: 0.0055
+Epoch: 31.4997, Avg. test loss: 0.0055
+Epoch: 31.7497, Avg. test loss: 0.0055
+Epoch: 31.9997, Avg. test loss: 0.0055
+Epoch: 31
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 32.2497, Avg. test loss: 0.0055
+Epoch: 32.4997, Avg. test loss: 0.0055
+Epoch: 32.7497, Avg. test loss: 0.0055
+Epoch: 32.9997, Avg. test loss: 0.0055
+Epoch: 32
+Estimated loss of the model (over 10000 samples): 0.0058
+Epoch: 33.2497, Avg. test loss: 0.0055
+Epoch: 33.4997, Avg. test loss: 0.0055
+Epoch: 33.7497, Avg. test loss: 0.0055
+Epoch: 33.9997, Avg. test loss: 0.0055
+Epoch: 33
+Estimated loss of the model (over 10000 samples): 0.0061
+Epoch: 34.2497, Avg. test loss: 0.0054
+Epoch: 34.4997, Avg. test loss: 0.0055
+Epoch: 34.7497, Avg. test loss: 0.0055
+Epoch: 34.9997, Avg. test loss: 0.0055
+Epoch: 34
+Estimated loss of the model (over 10000 samples): 0.0055
+Epoch: 35.2497, Avg. test loss: 0.0055
+Epoch: 35.4997, Avg. test loss: 0.0055
+Epoch: 35.7497, Avg. test loss: 0.0055
+Epoch: 35.9997, Avg. test loss: 0.0055
+Epoch: 35
+Estimated loss of the model (over 10000 samples): 0.0063
+Epoch: 36.2497, Avg. test loss: 0.0055
+Epoch: 36.4997, Avg. test loss: 0.0054
+Epoch: 36.7497, Avg. test loss: 0.0055
+Epoch: 36.9997, Avg. test loss: 0.0055
+Epoch: 36
+Estimated loss of the model (over 10000 samples): 0.0064
+Epoch: 37.2497, Avg. test loss: 0.0054
+Epoch: 37.4997, Avg. test loss: 0.0055
+Epoch: 37.7497, Avg. test loss: 0.0055
+Epoch: 37.9997, Avg. test loss: 0.0054
+Epoch: 37
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 38.2497, Avg. test loss: 0.0054
+Epoch: 38.4997, Avg. test loss: 0.0054
+Epoch: 38.7497, Avg. test loss: 0.0055
+Epoch: 38.9997, Avg. test loss: 0.0055
+Epoch: 38
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 39.2497, Avg. test loss: 0.0054
+Epoch: 39.4997, Avg. test loss: 0.0055
+Epoch: 39.7497, Avg. test loss: 0.0055
+Epoch: 39.9997, Avg. test loss: 0.0055
+Epoch: 39
+Estimated loss of the model (over 10000 samples): 0.0058
+Epoch: 40.2497, Avg. test loss: 0.0054
+Epoch: 40.4997, Avg. test loss: 0.0054
+Epoch: 40.7497, Avg. test loss: 0.0055
+Epoch: 40.9997, Avg. test loss: 0.0055
+Epoch: 40
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 41.2497, Avg. test loss: 0.0055
+Epoch: 41.4997, Avg. test loss: 0.0055
+Epoch: 41.7497, Avg. test loss: 0.0054
+Epoch: 41.9997, Avg. test loss: 0.0054
+Epoch: 41
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 42.2497, Avg. test loss: 0.0054
+Epoch: 42.4997, Avg. test loss: 0.0055
+Epoch: 42.7497, Avg. test loss: 0.0054
+Epoch: 42.9997, Avg. test loss: 0.0055
+Epoch: 42
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 43.2497, Avg. test loss: 0.0054
+Epoch: 43.4997, Avg. test loss: 0.0054
+Epoch: 43.7497, Avg. test loss: 0.0054
+Epoch: 43.9997, Avg. test loss: 0.0055
+Epoch: 43
+Estimated loss of the model (over 10000 samples): 0.0054
+Epoch: 44.2497, Avg. test loss: 0.0054
+Epoch: 44.4997, Avg. test loss: 0.0055
+Epoch: 44.7497, Avg. test loss: 0.0055
+Epoch: 44.9997, Avg. test loss: 0.0054
+Epoch: 44
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 45.2497, Avg. test loss: 0.0054
+Epoch: 45.4997, Avg. test loss: 0.0054
+Epoch: 45.7497, Avg. test loss: 0.0054
+Epoch: 45.9997, Avg. test loss: 0.0055
+Epoch: 45
+Estimated loss of the model (over 10000 samples): 0.0053
+Epoch: 46.2497, Avg. test loss: 0.0054
+Epoch: 46.4997, Avg. test loss: 0.0055
+Epoch: 46.7497, Avg. test loss: 0.0055
+Epoch: 46.9997, Avg. test loss: 0.0054
+Epoch: 46
+Estimated loss of the model (over 10000 samples): 0.0053
+Epoch: 47.2497, Avg. test loss: 0.0054
+Epoch: 47.4997, Avg. test loss: 0.0054
+Epoch: 47.7497, Avg. test loss: 0.0054
+Epoch: 47.9997, Avg. test loss: 0.0054
+Epoch: 47
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 48.2497, Avg. test loss: 0.0054
+Epoch: 48.4997, Avg. test loss: 0.0054
+Epoch: 48.7497, Avg. test loss: 0.0054
+Epoch: 48.9997, Avg. test loss: 0.0054
+Epoch: 48
+Estimated loss of the model (over 10000 samples): 0.0054
+Epoch: 49.2497, Avg. test loss: 0.0054
+Epoch: 49.4997, Avg. test loss: 0.0054
+Epoch: 49.7497, Avg. test loss: 0.0055
+Epoch: 49.9997, Avg. test loss: 0.0055
+Epoch: 49
+Estimated loss of the model (over 10000 samples): 0.0054
+Epoch: 50.2497, Avg. test loss: 0.0054
+Epoch: 50.4997, Avg. test loss: 0.0054
+Epoch: 50.7497, Avg. test loss: 0.0054
+Epoch: 50.9997, Avg. test loss: 0.0054
+Epoch: 50
+Estimated loss of the model (over 10000 samples): 0.0055
+Epoch: 51.2497, Avg. test loss: 0.0054
+Epoch: 51.4997, Avg. test loss: 0.0054
+Epoch: 51.7497, Avg. test loss: 0.0055
+Epoch: 51.9997, Avg. test loss: 0.0054
+Epoch: 51
+Estimated loss of the model (over 10000 samples): 0.0054
+Epoch: 52.2497, Avg. test loss: 0.0054
+Epoch: 52.4997, Avg. test loss: 0.0054
+Epoch: 52.7497, Avg. test loss: 0.0054
+Epoch: 52.9997, Avg. test loss: 0.0055
+Epoch: 52
+Estimated loss of the model (over 10000 samples): 0.0074
+Epoch: 53.2497, Avg. test loss: 0.0054
+Epoch: 53.4997, Avg. test loss: 0.0054
+Epoch: 53.7497, Avg. test loss: 0.0054
+Epoch: 53.9997, Avg. test loss: 0.0055
+Epoch: 53
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 54.2497, Avg. test loss: 0.0054
+Epoch: 54.4997, Avg. test loss: 0.0054
+Epoch: 54.7497, Avg. test loss: 0.0054
+Epoch: 54.9997, Avg. test loss: 0.0054
+Epoch: 54
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 55.2497, Avg. test loss: 0.0054
+Epoch: 55.4997, Avg. test loss: 0.0054
+Epoch: 55.7497, Avg. test loss: 0.0055
+Epoch: 55.9997, Avg. test loss: 0.0054
+Epoch: 55
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 56.2497, Avg. test loss: 0.0054
+Epoch: 56.4997, Avg. test loss: 0.0054
+Epoch: 56.7497, Avg. test loss: 0.0054
+Epoch: 56.9997, Avg. test loss: 0.0054
+Epoch: 56
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 57.2497, Avg. test loss: 0.0054
+Epoch: 57.4997, Avg. test loss: 0.0054
+Epoch: 57.7497, Avg. test loss: 0.0054
+Epoch: 57.9997, Avg. test loss: 0.0054
+Epoch: 57
+Estimated loss of the model (over 10000 samples): 0.0053
+Epoch: 58.2497, Avg. test loss: 0.0053
+Epoch: 58.4997, Avg. test loss: 0.0054
+Epoch: 58.7497, Avg. test loss: 0.0055
+Epoch: 58.9997, Avg. test loss: 0.0054
+Epoch: 58
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 59.2497, Avg. test loss: 0.0054
+Epoch: 59.4997, Avg. test loss: 0.0055
+Epoch: 59.7497, Avg. test loss: 0.0054
+Epoch: 59.9997, Avg. test loss: 0.0054
+Epoch: 59
+Estimated loss of the model (over 10000 samples): 0.0055
+Epoch: 60.2497, Avg. test loss: 0.0054
+Epoch: 60.4997, Avg. test loss: 0.0054
+Epoch: 60.7497, Avg. test loss: 0.0055
+Epoch: 60.9997, Avg. test loss: 0.0054
+Epoch: 60
+Estimated loss of the model (over 10000 samples): 0.0057
+Epoch: 61.2497, Avg. test loss: 0.0054
+Epoch: 61.4997, Avg. test loss: 0.0054
+Epoch: 61.7497, Avg. test loss: 0.0054
+Epoch: 61.9997, Avg. test loss: 0.0054
+Epoch: 61
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 62.2497, Avg. test loss: 0.0054
+Epoch: 62.4997, Avg. test loss: 0.0054
+Epoch: 62.7497, Avg. test loss: 0.0054
+Epoch: 62.9997, Avg. test loss: 0.0054
+Epoch: 62
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 63.2497, Avg. test loss: 0.0053
+Epoch: 63.4997, Avg. test loss: 0.0054
+Epoch: 63.7497, Avg. test loss: 0.0054
+Epoch: 63.9997, Avg. test loss: 0.0054
+Epoch: 63
+Estimated loss of the model (over 10000 samples): 0.0060
+Epoch: 64.2497, Avg. test loss: 0.0054
+Epoch: 64.4997, Avg. test loss: 0.0054
+Epoch: 64.7497, Avg. test loss: 0.0054
+Epoch: 64.9997, Avg. test loss: 0.0054
+Epoch: 64
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 65.2497, Avg. test loss: 0.0054
+Epoch: 65.4997, Avg. test loss: 0.0054
+Epoch: 65.7497, Avg. test loss: 0.0054
+Epoch: 65.9997, Avg. test loss: 0.0054
+Epoch: 65
+Estimated loss of the model (over 10000 samples): 0.0059
+Epoch: 66.2497, Avg. test loss: 0.0054
+Epoch: 66.4997, Avg. test loss: 0.0054
+Epoch: 66.7497, Avg. test loss: 0.0054
+Epoch: 66.9997, Avg. test loss: 0.0054
+Epoch: 66
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 67.2497, Avg. test loss: 0.0054
+Epoch: 67.4997, Avg. test loss: 0.0054
+Epoch: 67.7497, Avg. test loss: 0.0054
+Epoch: 67.9997, Avg. test loss: 0.0054
+Epoch: 67
+Estimated loss of the model (over 10000 samples): 0.0056
+Epoch: 68.2497, Avg. test loss: 0.0054
+Epoch: 68.4997, Avg. test loss: 0.0054
