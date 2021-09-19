@@ -7,8 +7,8 @@
 
 {Note: paper under submission}
 
-## CCID pipeline
-The figure below illustrates the CCID pipeline. 
+## CCID framework
+The figure below illustrates the CCID framework. By exploiting a reliable filter in parallel with a deep network, fused in the frequency domain, it enables users to control the hallucination contributions of the deep network and safeguard against its failures. 
 <p align="center">
   <img src="readme_figures/pipeline.png" width="600px"/>
 </p>
