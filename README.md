@@ -21,7 +21,7 @@ The figure below illustrates the CCID pipeline.
 
 ## Structure overview
 The code is structured as follows: 
-`pipeline.py` and `pipeline_no_gui.py` implement the overall logic of the pipeline. All denoiser related code is stored inside the `denoiser` folder, confidence prediction code in the `confidence` folder, and frequency domain fusion related code in the `fusion` folder. `library` folder contains the datasets and deep learning models that we have been using for evaluation.
+`pipeline.py` and `pipeline_no_gui.py` implement the overall logic of the pipeline. All denoiser related code is stored inside the `denoiser` folder, confidence prediction code in the `confidence` folder, and frequency-domain fusion related code in the `fusion` folder. The `library` folder contains the datasets and deep learning models that we use for evaluation.
 
 ## Run the program
 - With visualization: \
@@ -33,9 +33,9 @@ The code is structured as follows:
 
 ## Confidence prediction network
 In the `confidence` folder, there are \
-**(1)** `data_generation.py` generates the data used for training the confidence prediction network. Given the clean image, current implementation augments the data by rotating, flipping, and scaling. A random Gaussian noise ranging from `0-100` is added to the image to simulate the scenario of out-of-distribution noise level. It may be extended to include also different noise types and different image domains.
+**(1)** `data_generation.py` generates the data used for training the confidence prediction network. Given the clean image, our current implementation augments the data by rotating, flipping, and scaling. A random Gaussian noise component with level ranging in `0-100` is added to the image to simulate the scenario of out-of-distribution noise levels. It may be extended to include also different noise types and different image domains.
 
-**(2)** `confidence_train.py` trains the built confidence prediction network. The training arguments is not given as args, but a built-in value inside the file.
+**(2)** `confidence_train.py` trains the novel confidence prediction network. The training argumentation is not given in args, but is a built-in value inside the file.
 
 **(3)** `confidence.py` provides the high-level confidence prediction (testing) API: the prediction is performed given the noisy image and its denoised version, the result is a confidence map with lower resolution.
 
