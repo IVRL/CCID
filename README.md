@@ -5,7 +5,6 @@
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
 ![pytorch 1.8.1](https://img.shields.io/badge/pytorch-1.8.1-green.svg?style=plastic)
 
-{Note: paper under submission}
 
 ## CCID framework
 The figure below illustrates the CCID framework. By exploiting a reliable filter in parallel with a deep network, fused in the frequency domain, it enables users to control the hallucination contributions of the deep network and safeguard against its failures. 
@@ -42,4 +41,12 @@ In the `confidence` folder, there are \
 
 
 
-
+## Citation
+```bibtex
+@article{liang2022image,
+    title   = {Image Denoising with Control over Deep Network Hallucination},
+    author  = {Liang, Qiyuan and Cassayre, Florian and Owsianko, Haley and El Helou, Majed and S\"usstrunk, Sabine},
+    journal = {IS&amp;T Electronic Imaging Proceedings, Computational Imaging XX},
+    year    = {2022}
+}
+```
