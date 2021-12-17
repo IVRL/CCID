@@ -1,5 +1,7 @@
 #  Image Denoising with Control over Deep Network Hallucination
 
+#### [Paper TBD](https://github.com/IVRL/CCID/)
+
 **Authors**: Qiyuan Liang, Florian Cassayre, Haley Owsianko, [Majed El Helou](https://majedelhelou.github.io/), and Sabine Süsstrunk
 
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
@@ -12,8 +14,6 @@ The figure below illustrates the CCID framework. By exploiting a reliable filter
   <img src="readme_figures/pipeline.png" width="600px"/>
 </p>
 
-
-#### [Paper]
 
 > **Abstract:** *Deep image denoisers achieve state-of-the-art results but with a hidden cost. As witnessed in recent literature, these deep networks are capable of overfitting their training distributions, causing inaccurate hallucinations to be added to the output and generalizing poorly to varying data. For better control and interpretability over a deep denoiser, we propose a novel framework exploiting a denoising network. We call it controllable confidence-based image denoising (CCID). In this framework, we exploit the outputs of a deep denoising network alongside an image convolved with a reliable filter. Such a filter can be a simple convolution kernel which does not risk adding hallucinated information. We propose to fuse the two components with a frequency-domain approach that takes into account the reliability of the deep network outputs. With our framework, the user can control the fusion of the two components in the frequency domain. We also provide a user-friendly map estimating spatially the confidence in the output that potentially contains network hallucination.
 Results show that our CCID not only provides more interpretability and control, but can even outperform both the quantitative performance of the deep denoiser and that of the reliable filter. We show deep network hallucination can be exploited when the test data are similar to the training data, but is otherwise detrimental.*
