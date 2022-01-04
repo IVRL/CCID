@@ -1,8 +1,8 @@
 #  Image Denoising with Control over Deep Network Hallucination
 
-#### [Paper](https://infoscience.epfl.ch/record/291129?&ln=en)
+#### [Paper](https://infoscience.epfl.ch/record/291129?&ln=en) and [arXiv preprint](https://arxiv.org/abs/2201.00429)
 
-#### Our frequency-domain insights derive from [SFM](https://github.com/majedelhelou/SFM) and the concept of restoration reliability from [BUIFD](https://github.com/majedelhelou/BUIFD) and [BIGPrior](https://github.com/majedelhelou/BIGPrior)
+#### -- Our frequency-domain insights derive from [SFM](https://github.com/majedelhelou/SFM) and the concept of restoration reliability from [BUIFD](https://github.com/majedelhelou/BUIFD) and [BIGPrior](https://github.com/majedelhelou/BIGPrior) --
 
 **Authors**: Qiyuan Liang, Florian Cassayre, Haley Owsianko, [Majed El Helou](https://majedelhelou.github.io/), and Sabine Süsstrunk
 
